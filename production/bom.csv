@@ -1,0 +1,10 @@
+Designator,Footprint,Quantity,Value,LCSC Part #
+"C1, C2, C4",0805,3,10u/25V/0805,
+"C10, C3, C5, C6, C7, C8, C9",0603,7,100n/50V/0603,
+J1,USB_B_Lumberg_2411_02_Horizontal,1,USB_B,
+J2,RJ12_Amphenol_54601,1,6P6C,
+J3,JST_PH_B3B-PH-K_1x03_P2.00mm_Vertical,1,Conn_01x04,
+J4,JST_PH_B5B-PH-K_1x05_P2.00mm_Vertical,1,Conn_01x05,
+U1,SO-16_3.9x9.9mm_P1.27mm,1,MAX3232,
+U2,SOIC-16_3.9x9.9mm_P1.27mm,1,CH340C,
+U3,SOT-223-3_TabPin2,1,AMS1117-3.3,
