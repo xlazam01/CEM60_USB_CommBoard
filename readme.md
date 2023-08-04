@@ -1,6 +1,6 @@
 # iOptron CEM60 USB Communication
 
-This is a small project which enabled CEM60 mount to communicate directily over USB instead of RS232.
+This is a small project which enabled CEM60 mount to communicate directly over USB instead of RS232.
 
 
 # Files
